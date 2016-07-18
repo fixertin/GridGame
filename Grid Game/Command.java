@@ -1,4 +1,4 @@
-package com.sanderson.brentf.gridgame;
+
 
 public abstract class Command {
 

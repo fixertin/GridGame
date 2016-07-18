@@ -1,4 +1,4 @@
-package com.sanderson.brentf.gridgame;
+
 
 import java.util.Scanner;
 
@@ -46,3 +46,4 @@ public class Game {
 	
 	
 }
+

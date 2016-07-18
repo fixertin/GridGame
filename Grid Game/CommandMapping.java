@@ -1,4 +1,4 @@
-package com.sanderson.brentf.gridgame;
+
 
 import java.util.HashMap;
 
@@ -26,3 +26,4 @@ public class CommandMapping {
 	}
 
 }
+

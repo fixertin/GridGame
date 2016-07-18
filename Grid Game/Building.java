@@ -1,4 +1,4 @@
-package com.sanderson.brentf.gridgame;
+
 
 public class Building {
 
@@ -81,3 +81,4 @@ public class Building {
 	
 	
 }
+
