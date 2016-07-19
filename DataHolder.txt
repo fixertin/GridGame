@@ -1,0 +1,5 @@
+BuildingWidth: 5%  BuildingHeight: 5%
+RoomMessage: You walk into a building% RoomX: 2% RoomY: 0%
+RoomMessage: You are in the second room% RoomX: 2% RoomY: 1%
+RoomMessage: You are in the third room% RoomX: 3% RoomY: 1%
+PlayerX: 2% PlayerY: 0%

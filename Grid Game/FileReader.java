@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 public class FileReader {
 	
-	static Path file = Paths.get("c:/Users/Brent/EclipseWorkspace/DataHolder.txt");
+	static Path file = Paths.get("../DataHolder.txt");
 	
 	
 	public static ArrayList<String> readData()
